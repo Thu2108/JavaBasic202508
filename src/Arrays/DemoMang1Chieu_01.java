@@ -10,6 +10,7 @@ public class DemoMang1Chieu_01 {
         a[4]=50;
         System.out.println("Độ dài mảng" + " " +a.length);
         // duyet mang de lay phan tư ra = for
+        // test push code
         for(int i=0;i<a.length;i++) {
             System.out.println(a[i]);
         }
